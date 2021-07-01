@@ -1,0 +1,2 @@
+rootProject.name = "Stop Music Before Sleep"
+include ':app'
